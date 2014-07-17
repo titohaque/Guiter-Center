@@ -1,0 +1,128 @@
+#guitar2{
+    width:1200px;
+    height:1000px;
+    border:1px solid black;
+    position:relative;
+    background-color:yellowgreen;
+}
+
+#nav{
+    width:1150px;
+    height:40px;
+    border:1px solid black;
+    margin:10px 0px 0px 10px;
+    border-radius:15px;
+    background-color:none;
+}
+#nav ul{
+    padding:0px;
+    margin:0px;
+}
+
+#nav ul li{
+    list-style:none;
+    float:left;
+    padding:10px 0px 0px 90px;
+   
+}
+#nav ul li a{
+    text-decoration:none;
+    color:none;
+   
+}
+
+a:hover{
+    color:red;
+}
+
+#guitarimg2{
+    width:400px;
+    height:300px;
+    border:1px solid black;
+    position:absolute;
+    top:63px;
+    left:10px;
+    background-color:none;
+}
+#guitar2div{
+	width:619px;
+    height:300px;
+    border:1px solid black;
+    position:absolute;
+    top:66px;
+    right:108px;
+    background-color:none;	
+}
+
+#purchaceform{
+    width:1170px;
+    height:150px;
+    border:1px solid black;
+    position:absolute;
+    top:373px;
+    left:10px;
+    background-color:none;
+}
+
+#reviewOrder{
+	position:absolute;
+	bottom:10px;
+	right:10px;
+}
+
+#reviewform{
+    width:1170px;
+    height:150px;
+    border:1px solid black;
+    position:absolute;
+    top:524px;
+    left:10px;
+    background-color:none;
+}
+
+#previewOrder{
+	position:absolute;
+	bottom:10px;
+	right:10px;
+}
+
+#EditpreviewOrder{
+	position:absolute;
+	bottom:10px;
+	left:10px;
+}
+
+#buy{
+    width:80px;
+    height:30px;
+    border:1px solid black;
+    position:absolute;
+    bottom:20px;
+    right:10px;
+    border-radius:12px;
+    background-color:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

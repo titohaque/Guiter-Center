@@ -1,0 +1,216 @@
+#guitar1{
+    width:1200px;
+    height:1000px;
+    border:1px solid black;
+    position:relative;
+    background-color:silver;
+}
+
+#nav{
+    width:1150px;
+    height:40px;
+    border:1px solid black;
+    margin:10px 0px 0px 10px;
+    border-radius:15px;
+    background-color:none;
+}
+
+#nav ul{
+	padding:0px;
+	margin:0px;
+}
+#nav ul li{
+	list-style:none;
+	float:left;
+	padding: 10px 0px 0px 55px;
+}
+#nav ul li a{
+	text-decoration:none;
+	color:white;
+}
+
+a:hover{
+	color:red;
+}
+
+
+
+
+
+
+
+#guitardiv{
+	width:350px;
+	height:250px;
+	border:none;
+	position:absolute;
+	top:52px;
+	left:24px;
+}
+
+
+
+#guitarimg{
+    width:400px;
+    height:300px;
+    border:1px solid black;
+    position:absolute;
+    top:125px;
+    right:482px;
+    background-color:red;
+}
+
+#price{
+	width:100px;
+	height:25px;
+	border:1px solid black;
+	position:absolute;
+	top:425px;
+	right:604px;
+	background-color:skyblue;
+}
+
+#btnnext{
+    position:absolute;
+    top:433px;
+    right:417px;
+    border-radius:10px;
+    background-color:skyblue;
+}
+
+#btnpre{
+    position:absolute;
+    top:433px;
+    right:904px;
+    border-radius:10px;
+    background-color:skyblue;
+}
+
+
+#product{
+    width:470px;
+    height:30px;
+    border:1px solid black;
+    margin:10px 0px 0px 10px;
+    background-color:skyblue;
+    position:absolute;
+    bottom:509px;
+    right:462px;
+}
+
+
+#innerproduct{
+    width:470px;
+    height:118px;
+    border:1px solid black;
+    position:absolute;
+    bottom:389px;
+    right:462px;
+   }
+#innerbtn1{
+    position:absolute;
+    top:5px;
+    right:441px;
+    border-radius:15px;
+    background-color:red;
+}
+
+
+#shipping{
+    width:470px;
+    height:30px;
+    border:1px solid black;
+    margin:10px 0px 0px 10px;
+    background-color:skyblue;
+    position:absolute;
+    bottom:352px;
+    right:462px;
+}
+
+#innershipping{
+    width:470px;
+    height:118px;
+    border:1px solid black;
+    position:absolute;
+    bottom:234px;
+    right:462px;
+    
+   }
+   
+   #innerbtn2{
+    position:absolute;
+    top:5px;
+    right:441px;
+    border-radius:15px;
+    background-color:red;
+}
+   
+#review{
+    width:470px;
+    height:30px;
+    border:1px solid black;
+    margin:10px 0px 0px 10px;
+    background-color:skyblue;
+    position:absolute;
+    bottom:199px;
+    right:462px;
+}
+
+ #innercusto{
+    width:470px;
+    height:118px;
+    border:1px solid black;
+    position:absolute;
+    bottom:79px;
+    right:462px;
+   }
+   #innerbtn3{
+    position:absolute;
+    top:5px;
+    right:441px;
+    border-radius:15px;
+    background-color:red;
+}
+   
+
+#buy{
+    width:80px;
+    height:30px;
+    border:1px solid black;
+    position:absolute;
+    bottom:20px;
+    right:10px;
+    border-radius:12px;
+    background-color:skyblue;
+}
+
+
+
+
+
+.pro{
+	margin:0px 0px 0px 10px;
+	text-align:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
